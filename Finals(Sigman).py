@@ -137,3 +137,5 @@ for text, command in [("Sign Up", sign_up), ("View All Records", view_records), 
     btn.pack(pady=10)
 
 root.mainloop()
+
+
